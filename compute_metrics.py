@@ -140,3 +140,4 @@ if __name__ == '__main__':
     mixture_path="data/POP909/mixture_crops"
     baseline_sim(reference_path, mixture_path)
     synthetic_data_sim(reference_path, mixture_path, copy_bar=1)
+
