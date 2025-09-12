@@ -3,7 +3,7 @@ This is the official implementation of SSIMuse, the first adaptation of the Stru
 
 The musical reinterpretations of comparison functions in SSIMuse-B and SSIMuse-V are shown in the following table.
 | Comparison functions | Reinterpretation in SSIMuse-B      | Reinterpretation in SSIMuse-V                  |
-|---------------------|-----------------------------------|-----------------------------------------------|
+|:---------------------|:-----------------------------------|:-----------------------------------------------|
 | $l(\mathbf{x},\mathbf{y})$ | Note density consistency          | Overall dynamic consistency                    |
 | $c(\mathbf{x},\mathbf{y})$ | ✗ (Invalid)                     | Dynamic dispersion consistency                 |
 | $s(\mathbf{x},\mathbf{y})$ | Note event synchronization        | Temporal pattern consistency of velocity changes |
