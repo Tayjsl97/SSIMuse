@@ -1,0 +1,466 @@
+{
+  "original_case1": {
+    "file": "sources/case01.npy",
+    "source_midi_name": "case1_song_a.mid",
+    "source_npy_name": "case1_song_a.npy",
+    "note_count": 54,
+    "origin_step": 0,
+    "roll_steps": 195
+  },
+  "original_case2": {
+    "file": "sources/case02.npy",
+    "source_midi_name": "case2_Oh_Why.mid",
+    "source_npy_name": "case2_Oh_Why.npy",
+    "note_count": 67,
+    "origin_step": 0,
+    "roll_steps": 128
+  },
+  "original_case3": {
+    "file": "sources/case03.npy",
+    "source_midi_name": "case3_大海航行靠舵手.mid",
+    "source_npy_name": "case3_大海航行靠舵手.npy",
+    "note_count": 132,
+    "origin_step": 0,
+    "roll_steps": 355
+  },
+  "original_case4": {
+    "file": "sources/case04.npy",
+    "source_midi_name": "case4_十月里响起一声春雷.mid",
+    "source_npy_name": "case4_十月里响起一声春雷.npy",
+    "note_count": 374,
+    "origin_step": 0,
+    "roll_steps": 1388
+  },
+  "original_case5": {
+    "file": "sources/case05.npy",
+    "source_midi_name": "case5_shoule.mid",
+    "source_npy_name": "case5_shoule.npy",
+    "note_count": 144,
+    "origin_step": 0,
+    "roll_steps": 320
+  },
+  "original_case6": {
+    "file": "sources/case06.npy",
+    "source_midi_name": "case6_Creep.mid",
+    "source_npy_name": "case6_Creep.npy",
+    "note_count": 63,
+    "origin_step": 0,
+    "roll_steps": 248
+  },
+  "original_case7": {
+    "file": "sources/case07.npy",
+    "source_midi_name": "case7_something_just_like_this.mid",
+    "source_npy_name": "case7_something_just_like_this.npy",
+    "note_count": 106,
+    "origin_step": 64,
+    "roll_steps": 276
+  },
+  "original_case8": {
+    "file": "sources/case08.npy",
+    "source_midi_name": "case8_落叶归根.mid",
+    "source_npy_name": "case8_落叶归根.npy",
+    "note_count": 148,
+    "origin_step": 0,
+    "roll_steps": 324
+  },
+  "original_case9": {
+    "file": "sources/case09.npy",
+    "source_midi_name": "case9_佛系少女.mid",
+    "source_npy_name": "case9_佛系少女.npy",
+    "note_count": 490,
+    "origin_step": 0,
+    "roll_steps": 1344
+  },
+  "original_case10": {
+    "file": "sources/case10.npy",
+    "source_midi_name": "case10_Anftrag Deutsches Reich-Stahlgewitter.mid",
+    "source_npy_name": "case10_Anftrag Deutsches Reich-Stahlgewitter.npy",
+    "note_count": 81,
+    "origin_step": 0,
+    "roll_steps": 256
+  },
+  "original_case11": {
+    "file": "sources/case11.npy",
+    "source_midi_name": "case11_Janine.mid",
+    "source_npy_name": "case11_Janine.npy",
+    "note_count": 12,
+    "origin_step": 10,
+    "roll_steps": 50
+  },
+  "original_case12": {
+    "file": "sources/case12.npy",
+    "source_midi_name": "case12_Fanfaren-Blues.mid",
+    "source_npy_name": "case12_Fanfaren-Blues.npy",
+    "note_count": 33,
+    "origin_step": 0,
+    "roll_steps": 128
+  },
+  "original_case13": {
+    "file": "sources/case13.npy",
+    "source_midi_name": "case13_GetOverYou-Sophie.mid",
+    "source_npy_name": "case13_GetOverYou-Sophie.npy",
+    "note_count": 10,
+    "origin_step": 0,
+    "roll_steps": 32
+  },
+  "original_case14": {
+    "file": "sources/case14.npy",
+    "source_midi_name": "case14_nothing really matters.mid",
+    "source_npy_name": "case14_nothing really matters.npy",
+    "note_count": 26,
+    "origin_step": 0,
+    "roll_steps": 159
+  },
+  "original_case15": {
+    "file": "sources/case15.npy",
+    "source_midi_name": "case15_Jingle of German bank.mid",
+    "source_npy_name": "case15_Jingle of German bank.npy",
+    "note_count": 7,
+    "origin_step": 0,
+    "roll_steps": 28
+  },
+  "original_case16": {
+    "file": "sources/case16.npy",
+    "source_midi_name": "case16_Where are you.mid",
+    "source_npy_name": "case16_Where are you.npy",
+    "note_count": 81,
+    "origin_step": 0,
+    "roll_steps": 202
+  },
+  "original_case17": {
+    "file": "sources/case17.npy",
+    "source_midi_name": "case17_ma este meg.mid",
+    "source_npy_name": "case17_ma este meg.npy",
+    "note_count": 66,
+    "origin_step": 0,
+    "roll_steps": 289
+  },
+  "original_case18": {
+    "file": "sources/case18.npy",
+    "source_midi_name": "case18_Green_Grass_Grows.mid",
+    "source_npy_name": "case18_Green_Grass_Grows.npy",
+    "note_count": 11,
+    "origin_step": 0,
+    "roll_steps": 120
+  },
+  "original_case19": {
+    "file": "sources/case19.npy",
+    "source_midi_name": "case19_phantom Song.mid",
+    "source_npy_name": "case19_phantom Song.npy",
+    "note_count": 46,
+    "origin_step": 0,
+    "roll_steps": 239
+  },
+  "original_case20": {
+    "file": "sources/case20.npy",
+    "source_midi_name": "case20_runthroughthejungle.mid",
+    "source_npy_name": "case20_runthroughthejungle.npy",
+    "note_count": 40,
+    "origin_step": 0,
+    "roll_steps": 192
+  },
+  "original_case21": {
+    "file": "sources/case21.npy",
+    "source_midi_name": "case21_Here We Are On the Road Again.mid",
+    "source_npy_name": "case21_Here We Are On the Road Again.npy",
+    "note_count": 43,
+    "origin_step": 0,
+    "roll_steps": 90
+  },
+  "original_case22": {
+    "file": "sources/case22.npy",
+    "source_midi_name": "case22_City of Violets.mid",
+    "source_npy_name": "case22_City of Violets.npy",
+    "note_count": 20,
+    "origin_step": 0,
+    "roll_steps": 63
+  },
+  "original_case23": {
+    "file": "sources/case23.npy",
+    "source_midi_name": "case23_fantasy.mid",
+    "source_npy_name": "case23_fantasy.npy",
+    "note_count": 25,
+    "origin_step": 13,
+    "roll_steps": 61
+  },
+  "original_case24": {
+    "file": "sources/case24.npy",
+    "source_midi_name": "case24_Alle Liebe.mid",
+    "source_npy_name": "case24_Alle Liebe.npy",
+    "note_count": 80,
+    "origin_step": 6,
+    "roll_steps": 265
+  },
+  "original_case25": {
+    "file": "sources/case25.npy",
+    "source_midi_name": "case25_There is nothin_ like a dame.mid",
+    "source_npy_name": "case25_There is nothin_ like a dame.npy",
+    "note_count": 65,
+    "origin_step": 0,
+    "roll_steps": 153
+  },
+  "original_case26": {
+    "file": "sources/case26.npy",
+    "source_midi_name": "case26_Der Evangelimann.mid",
+    "source_npy_name": "case26_Der Evangelimann.npy",
+    "note_count": 31,
+    "origin_step": 10,
+    "roll_steps": 92
+  },
+  "original_case27": {
+    "file": "sources/case27.npy",
+    "source_midi_name": "case27_Dirlada.mid",
+    "source_npy_name": "case27_Dirlada.npy",
+    "note_count": 49,
+    "origin_step": 30,
+    "roll_steps": 242
+  },
+  "original_case28": {
+    "file": "sources/case28.npy",
+    "source_midi_name": "case28_he so fine.mid",
+    "source_npy_name": "case28_he so fine.npy",
+    "note_count": 51,
+    "origin_step": 0,
+    "roll_steps": 250
+  },
+  "original_case29": {
+    "file": "sources/case29.npy",
+    "source_midi_name": "case29_girl in the dark.mid",
+    "source_npy_name": "case29_girl in the dark.npy",
+    "note_count": 152,
+    "origin_step": 0,
+    "roll_steps": 368
+  },
+  "query_case1": {
+    "file": "queries/case01.npy",
+    "source_midi_name": "case1_song_b.mid",
+    "source_npy_name": "case1_song_b.npy",
+    "note_count": 78,
+    "origin_step": 0,
+    "roll_steps": 319
+  },
+  "query_case2": {
+    "file": "queries/case02.npy",
+    "source_midi_name": "case2_Shape_Of_You.mid",
+    "source_npy_name": "case2_Shape_Of_You.npy",
+    "note_count": 45,
+    "origin_step": 0,
+    "roll_steps": 96
+  },
+  "query_case3": {
+    "file": "queries/case03.npy",
+    "source_midi_name": "case3_我为祖国献石油.mid",
+    "source_npy_name": "case3_我为祖国献石油.npy",
+    "note_count": 163,
+    "origin_step": 0,
+    "roll_steps": 444
+  },
+  "query_case4": {
+    "file": "queries/case04.npy",
+    "source_midi_name": "case4_我爱你中国.mid",
+    "source_npy_name": "case4_我爱你中国.npy",
+    "note_count": 351,
+    "origin_step": 0,
+    "roll_steps": 1236
+  },
+  "query_case5": {
+    "file": "queries/case05.npy",
+    "source_midi_name": "case5_wusulichuan.mid",
+    "source_npy_name": "case5_wusulichuan.npy",
+    "note_count": 263,
+    "origin_step": 0,
+    "roll_steps": 600
+  },
+  "query_case6": {
+    "file": "queries/case06.npy",
+    "source_midi_name": "case6_Get Free.mid",
+    "source_npy_name": "case6_Get Free.npy",
+    "note_count": 29,
+    "origin_step": 0,
+    "roll_steps": 124
+  },
+  "query_case7": {
+    "file": "queries/case07.npy",
+    "source_midi_name": "case7_孤芳自赏.mid",
+    "source_npy_name": "case7_孤芳自赏.npy",
+    "note_count": 370,
+    "origin_step": 0,
+    "roll_steps": 672
+  },
+  "query_case8": {
+    "file": "queries/case08.npy",
+    "source_midi_name": "case8_我只在乎你.mid",
+    "source_npy_name": "case8_我只在乎你.npy",
+    "note_count": 334,
+    "origin_step": 156,
+    "roll_steps": 983
+  },
+  "query_case9": {
+    "file": "queries/case09.npy",
+    "source_midi_name": "case9_学猫叫.mid",
+    "source_npy_name": "case9_学猫叫.npy",
+    "note_count": 509,
+    "origin_step": 64,
+    "roll_steps": 1452
+  },
+  "query_case10": {
+    "file": "queries/case10.npy",
+    "source_midi_name": "case10_Schenkt uns Dummheit, kein Niveau-FreiWild.mid",
+    "source_npy_name": "case10_Schenkt uns Dummheit, kein Niveau-FreiWild.npy",
+    "note_count": 84,
+    "origin_step": 0,
+    "roll_steps": 256
+  },
+  "query_case11": {
+    "file": "queries/case11.npy",
+    "source_midi_name": "case11_Les Memoires Blessées.mid",
+    "source_npy_name": "case11_Les Memoires Blessées.npy",
+    "note_count": 12,
+    "origin_step": 12,
+    "roll_steps": 68
+  },
+  "query_case12": {
+    "file": "queries/case12.npy",
+    "source_midi_name": "case12_ZDF-Today.mid",
+    "source_npy_name": "case12_ZDF-Today.npy",
+    "note_count": 59,
+    "origin_step": 0,
+    "roll_steps": 144
+  },
+  "query_case13": {
+    "file": "queries/case13.npy",
+    "source_midi_name": "case13_Heartbeat-Walter.mid",
+    "source_npy_name": "case13_Heartbeat-Walter.npy",
+    "note_count": 10,
+    "origin_step": 0,
+    "roll_steps": 32
+  },
+  "query_case14": {
+    "file": "queries/case14.npy",
+    "source_midi_name": "case14_forever after.mid",
+    "source_npy_name": "case14_forever after.npy",
+    "note_count": 52,
+    "origin_step": 0,
+    "roll_steps": 240
+  },
+  "query_case15": {
+    "file": "queries/case15.npy",
+    "source_midi_name": "case15_wouldn it be good.mid",
+    "source_npy_name": "case15_wouldn it be good.npy",
+    "note_count": 10,
+    "origin_step": 0,
+    "roll_steps": 32
+  },
+  "query_case16": {
+    "file": "queries/case16.npy",
+    "source_midi_name": "case16_Where are you now.mid",
+    "source_npy_name": "case16_Where are you now.npy",
+    "note_count": 38,
+    "origin_step": 0,
+    "roll_steps": 141
+  },
+  "query_case17": {
+    "file": "queries/case17.npy",
+    "source_midi_name": "case17_perhaps.mid",
+    "source_npy_name": "case17_perhaps.npy",
+    "note_count": 57,
+    "origin_step": 0,
+    "roll_steps": 288
+  },
+  "query_case18": {
+    "file": "queries/case18.npy",
+    "source_midi_name": "case18_Superstring.mid",
+    "source_npy_name": "case18_Superstring.npy",
+    "note_count": 10,
+    "origin_step": 0,
+    "roll_steps": 127
+  },
+  "query_case19": {
+    "file": "queries/case19.npy",
+    "source_midi_name": "case19_Till you.mid",
+    "source_npy_name": "case19_Till you.npy",
+    "note_count": 42,
+    "origin_step": 0,
+    "roll_steps": 223
+  },
+  "query_case20": {
+    "file": "queries/case20.npy",
+    "source_midi_name": "case20_theoldmandown.mid",
+    "source_npy_name": "case20_theoldmandown.npy",
+    "note_count": 42,
+    "origin_step": 0,
+    "roll_steps": 192
+  },
+  "query_case21": {
+    "file": "queries/case21.npy",
+    "source_midi_name": "case21_Filion Family Welcome.mid",
+    "source_npy_name": "case21_Filion Family Welcome.npy",
+    "note_count": 48,
+    "origin_step": 0,
+    "roll_steps": 75
+  },
+  "query_case22": {
+    "file": "queries/case22.npy",
+    "source_midi_name": "case22_Chariots of Fire.mid",
+    "source_npy_name": "case22_Chariots of Fire.npy",
+    "note_count": 28,
+    "origin_step": 0,
+    "roll_steps": 46
+  },
+  "query_case23": {
+    "file": "queries/case23.npy",
+    "source_midi_name": "case23_wie ein Kind.mid",
+    "source_npy_name": "case23_wie ein Kind.npy",
+    "note_count": 25,
+    "origin_step": 12,
+    "roll_steps": 108
+  },
+  "query_case24": {
+    "file": "queries/case24.npy",
+    "source_midi_name": "case24_Ein bisschen Frieden.mid",
+    "source_npy_name": "case24_Ein bisschen Frieden.npy",
+    "note_count": 78,
+    "origin_step": 6,
+    "roll_steps": 265
+  },
+  "query_case25": {
+    "file": "queries/case25.npy",
+    "source_midi_name": "case25_Advert for Rapid Coach Service.mid",
+    "source_npy_name": "case25_Advert for Rapid Coach Service.npy",
+    "note_count": 54,
+    "origin_step": 0,
+    "roll_steps": 133
+  },
+  "query_case26": {
+    "file": "queries/case26.npy",
+    "source_midi_name": "case26_Tanze mit.mid",
+    "source_npy_name": "case26_Tanze mit.npy",
+    "note_count": 32,
+    "origin_step": 0,
+    "roll_steps": 239
+  },
+  "query_case27": {
+    "file": "queries/case27.npy",
+    "source_midi_name": "case27_Loop_Di_Love.mid",
+    "source_npy_name": "case27_Loop_Di_Love.npy",
+    "note_count": 40,
+    "origin_step": 18,
+    "roll_steps": 242
+  },
+  "query_case28": {
+    "file": "queries/case28.npy",
+    "source_midi_name": "case28_my sweet lord.mid",
+    "source_npy_name": "case28_my sweet lord.npy",
+    "note_count": 46,
+    "origin_step": 0,
+    "roll_steps": 255
+  },
+  "query_case29": {
+    "file": "queries/case29.npy",
+    "source_midi_name": "case29_sogna nostalgico.mid",
+    "source_npy_name": "case29_sogna nostalgico.npy",
+    "note_count": 102,
+    "origin_step": 0,
+    "roll_steps": 148
+  }
+}

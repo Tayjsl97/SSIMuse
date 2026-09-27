@@ -1,0 +1,41 @@
+case_id,court_decision,label
+0,infringement,1
+1,no infringement,0
+2,infringement,1
+3,no infringement,0
+4,no infringement,0
+5,no infringement,0
+6,no infringement,0
+7,no infringement,0
+8,infringement,1
+9,no infringement,0
+10,infringement,1
+11,no infringement,0
+12,infringement,1
+13,no infringement,0
+14,no infringement,0
+15,no infringement,0
+16,infringement,1
+17,infringement,1
+18,no infringement,0
+19,no infringement,0
+20,no infringement,0
+21,infringement,1
+22,no infringement,0
+23,no infringement,0
+24,no infringement,0
+25,no infringement,0
+26,infringement,1
+27,infringement,1
+28,infringement,1
+29,no infringement,0
+30,no infringement,0
+31,infringement,1
+32,infringement,1
+33,no infringement,0
+34,infringement,1
+35,infringement,1
+36,infringement,1
+37,infringement,1
+38,infringement,1
+39,no infringement,0
