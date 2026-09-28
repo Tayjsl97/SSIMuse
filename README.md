@@ -13,6 +13,12 @@ The method is training-free and searches for matching material under:
 This repository contains the core metric, controlled-copy evaluation,
 real-data source retrieval, MIDI preprocessing, and compact processed data.
 
+![Figure 1: SSIMuse structural-similarity computation pipeline](assets/figure1-ssimuse-pipeline.png)
+
+**Figure 1.** The computation pipeline of the structural similarity term
+$s_B(\mathbf{x},\mathbf{y})$, including duration scaling and circular time and
+pitch-shift alignment.
+
 ## 1. Repository structure
 
 ```text
@@ -20,6 +26,7 @@ SSIMuse.py          Core SSIMuse metric and FFT-accelerated alignment
 controlled_data.py  Controlled-copy evaluation on 16-bar clips
 real_data.py        Windowed real-data source retrieval
 midi_utils.py       MIDI-to-piano-roll conversion
+assets/             Figures used by this README
 data/
 ├── controlled/
 │   ├── POP909/     Included polyphonic and melody crops
