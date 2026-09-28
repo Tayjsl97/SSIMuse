@@ -96,9 +96,7 @@ density, structure, total = metric.compute_ssim(reference, candidate)
 
 ## 5. Optional core configuration
 
-The following are optional arguments of the `SSIMuse(...)` constructor. The
-defaults reproduce the released metric, so most users do not need to change
-them.
+The following are optional arguments of the `SSIMuse(...)` constructor. 
 
 ```python
 from SSIMuse import SSIMuse
@@ -193,10 +191,6 @@ redistributed here.
 
 Additional files in `sources/` are treated as distractor candidates. Every
 query must have a same-named source so retrieval accuracy can be calculated.
-
-The real-data protocol uses batch-level per-source mean calibration over the
-evaluation queries. It is transductive and should not be described as
-independent pairwise classification.
 
 ## License and attribution
 
