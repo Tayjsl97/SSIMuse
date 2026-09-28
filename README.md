@@ -157,7 +157,7 @@ python controlled_data.py \
 ```
 
 AILabs/Pop1K7 is not bundled in this repository. Download the original
-[Pop1K7.zip (302.7 MB)](https://zenodo.org/records/13167761/files/Pop1K7.zip?download=1)
+[Pop1K7.zip](https://zenodo.org/records/13167761/files/Pop1K7.zip?download=1)
 from the official Zenodo record before preparing its controlled clips.
 
 The controlled clips are 16 bars long. `--bars` specifies the copied excerpt
